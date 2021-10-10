@@ -1,4 +1,4 @@
 
 function myFunction(a, b) {
-    return a;
+    return a+b+c+d;
   }
